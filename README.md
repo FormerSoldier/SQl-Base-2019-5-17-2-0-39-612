@@ -27,7 +27,7 @@
 
 1. 学生表(student)：
 
-![学生表详情](D:\Git workspace\SQL-1\images\student.png)
+![学生表详情](images/student.png)
 
 ​	创建学生表，以id为主键，向表插入两条数据，并将所有数据检索出来如图。
 
@@ -35,12 +35,12 @@
 
 1. 考试科目表(subject)：
 
-   ![考试科目表详情](images\subject.png)
+   ![考试科目表详情](images/subject.png)
 
    创建考试科目表，以id为主键，向表插入两条数据，并将所有数据检索出来如图。
 
 2. 成绩表(score)：
 
-   ![成绩表详情](images\score.png)
+   ![成绩表详情](images/score.png)
 
    创建成绩表，以id为主键，student_id为外键，关联student的id；subject_id为外键，关联subject的id，然后向表插入四条数据，并将所有数据检索出来如图。
